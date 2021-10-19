@@ -138,3 +138,32 @@ Websocket closed
 TermSocket.open: 18
 not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 18
+Websocket closed
+[W 21:33:10.772 NotebookApp] Culling 'idle' kernel 'python3' (52672b44-c3a3-405b-a9cb-13418caf27c5) with 0 connections due to 604 seconds of inactivity.
+[I 21:33:10.773 NotebookApp] Kernel shutdown: 52672b44-c3a3-405b-a9cb-13418caf27c5
+[I 21:33:27.308 NotebookApp] New terminal with automatic name: 19
+TermSocket.open: 19
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 19
+Websocket closed
+[I 21:34:04.098 NotebookApp] Kernel started: 55435d39-e0d7-4492-b4df-7b9d44a6366b, name: python3
+[I 21:34:11.909 NotebookApp] Starting buffering for 55435d39-e0d7-4492-b4df-7b9d44a6366b:41b67a3b1c694006987a17a84d767070
+[I 21:34:33.543 NotebookApp] Restoring connection for 55435d39-e0d7-4492-b4df-7b9d44a6366b:41b67a3b1c694006987a17a84d767070
+[W 21:34:34.325 NotebookApp] Replacing stale connection: 55435d39-e0d7-4492-b4df-7b9d44a6366b:41b67a3b1c694006987a17a84d767070
+[I 21:34:34.613 NotebookApp] Starting buffering for 55435d39-e0d7-4492-b4df-7b9d44a6366b:41b67a3b1c694006987a17a84d767070
+[I 21:34:34.614 NotebookApp] Restoring connection for 55435d39-e0d7-4492-b4df-7b9d44a6366b:41b67a3b1c694006987a17a84d767070
+[I 21:34:34.947 NotebookApp] Starting buffering for 55435d39-e0d7-4492-b4df-7b9d44a6366b:41b67a3b1c694006987a17a84d767070
+[I 21:34:36.691 NotebookApp] Restoring connection for 55435d39-e0d7-4492-b4df-7b9d44a6366b:41b67a3b1c694006987a17a84d767070
+[I 21:34:36.697 NotebookApp] Replaying 3 buffered messages
+[I 21:36:05.205 NotebookApp] Saving file at /AIT.ipynb
+[I 21:37:01.629 NotebookApp] Saving file at /AIT.ipynb
+[I 21:37:04.421 NotebookApp] Starting buffering for 55435d39-e0d7-4492-b4df-7b9d44a6366b:41b67a3b1c694006987a17a84d767070
+[I 21:37:08.153 NotebookApp] New terminal with automatic name: 20
+TermSocket.open: 20
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 20
+Websocket closed
+[I 21:37:18.911 NotebookApp] New terminal with automatic name: 21
+TermSocket.open: 21
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 21
