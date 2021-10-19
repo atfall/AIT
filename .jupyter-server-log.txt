@@ -122,3 +122,19 @@ Websocket closed
 TermSocket.open: 15
 not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 15
+Websocket closed
+[I 21:28:44.856 NotebookApp] New terminal with automatic name: 16
+TermSocket.open: 16
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 16
+Websocket closed
+[I 21:30:22.884 NotebookApp] New terminal with automatic name: 17
+TermSocket.open: 17
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 17
+Websocket closed
+[I 21:31:46.853 NotebookApp] Saving file at /AIT.ipynb
+[I 21:31:51.783 NotebookApp] New terminal with automatic name: 18
+TermSocket.open: 18
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 18
