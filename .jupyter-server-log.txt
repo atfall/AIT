@@ -71,3 +71,54 @@ Websocket closed
 TermSocket.open: 7
 not able to serialize: expected string or bytes-like object
 TermSocket.open: Opened 7
+Websocket closed
+[I 21:16:42.844 NotebookApp] New terminal with automatic name: 8
+TermSocket.open: 8
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 8
+Websocket closed
+[I 21:17:44.010 NotebookApp] New terminal with automatic name: 9
+TermSocket.open: 9
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 9
+Websocket closed
+[I 21:18:14.797 NotebookApp] New terminal with automatic name: 10
+TermSocket.open: 10
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 10
+Websocket closed
+[I 21:18:53.225 NotebookApp] Kernel started: f869389a-2b64-4325-9ce0-f0fa0c45ff16, name: python3
+[I 21:18:57.928 NotebookApp] Starting buffering for f869389a-2b64-4325-9ce0-f0fa0c45ff16:b67dcbd2dd5e436f8148d61e45fe4530
+[I 21:19:22.947 NotebookApp] New terminal with automatic name: 11
+TermSocket.open: 11
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 11
+Websocket closed
+[I 21:20:13.985 NotebookApp] New terminal with automatic name: 12
+TermSocket.open: 12
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 12
+Websocket closed
+[I 21:21:26.540 NotebookApp] Kernel shutdown: f869389a-2b64-4325-9ce0-f0fa0c45ff16
+[I 21:21:30.577 NotebookApp] Kernel started: 52672b44-c3a3-405b-a9cb-13418caf27c5, name: python3
+[I 21:21:38.294 NotebookApp] Starting buffering for 52672b44-c3a3-405b-a9cb-13418caf27c5:3833bf4f3a6541d991af7ab48b0af334
+[I 21:22:33.282 NotebookApp] Restoring connection for 52672b44-c3a3-405b-a9cb-13418caf27c5:3833bf4f3a6541d991af7ab48b0af334
+[I 21:22:33.786 NotebookApp] Starting buffering for 52672b44-c3a3-405b-a9cb-13418caf27c5:3833bf4f3a6541d991af7ab48b0af334
+[I 21:22:34.172 NotebookApp] Restoring connection for 52672b44-c3a3-405b-a9cb-13418caf27c5:3833bf4f3a6541d991af7ab48b0af334
+[I 21:22:48.381 NotebookApp] Saving file at /AIT.ipynb
+[I 21:22:50.006 NotebookApp] Starting buffering for 52672b44-c3a3-405b-a9cb-13418caf27c5:3833bf4f3a6541d991af7ab48b0af334
+[I 21:23:12.141 NotebookApp] Starting buffering for 52672b44-c3a3-405b-a9cb-13418caf27c5:bdb080b80bb24c0a919919904c27759c
+[I 21:23:14.252 NotebookApp] New terminal with automatic name: 13
+TermSocket.open: 13
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 13
+Websocket closed
+[I 21:24:45.137 NotebookApp] New terminal with automatic name: 14
+TermSocket.open: 14
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 14
+Websocket closed
+[I 21:25:52.835 NotebookApp] New terminal with automatic name: 15
+TermSocket.open: 15
+not able to serialize: expected string or bytes-like object
+TermSocket.open: Opened 15
